@@ -1,3 +1,7 @@
 {
-	"products" : [{"product_id": 123,"product_name": "xerox printer"}]
+	"products" : [
+	{"product_id": 123,"product_name": "xerox printer"},
+	{"product_id": 124,"product_name": "hp printer"},
+	{"product_id": 323,"product_name": "canon printer"}
+	]
 }
